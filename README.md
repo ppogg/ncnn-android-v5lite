@@ -49,5 +49,7 @@ wget yolov5-lite-i8.bin or yolov5-lite.bin into assets
 
 ## reference  
 https://github.com/nihui/ncnn-android-yolov5
+
 https://github.com/FeiGeChuanShu/ncnn-android-yolox  
+
 https://github.com/ppogg/YOLOv5-Lite
