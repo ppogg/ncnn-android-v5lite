@@ -43,7 +43,8 @@ wget yolov5-lite-i8.bin or yolov5-lite.bin into assets
 * FPS may be lower in dark environment because of longer camera exposure time
 
 ## screenshot
-<img src="https://pic3.zhimg.com/v2-d6701b6959a3f7b37c810d6edb0dcc3d_1440w.jpg?source=172ae18b" width="600"/><br/>
+https://pic3.zhimg.com/v2-d6701b6959a3f7b37c810d6edb0dcc3d_1440w.jpg?source=172ae18b
+<img src="https://pic1.zhimg.com/80/v2-c013df3638fd41d10103ea259b18e588_720w.jpg" width="600"/><br/>
 
 ## reference  
 https://github.com/nihui/ncnn-android-yolov5
