@@ -43,7 +43,7 @@ wget yolov5-lite-i8.bin or yolov5-lite.bin into assets
 * FPS may be lower in dark environment because of longer camera exposure time
 
 ## screenshot
-<img src="![app](https://user-images.githubusercontent.com/82716366/151705519-de3ad1f1-e297-4125-989a-04e49dcf2876.jpg)" width="600"/><br/>
+<img src="https://user-images.githubusercontent.com/82716366/151705519-de3ad1f1-e297-4125-989a-04e49dcf2876.jpg)" width="600"/><br/>
 
 <img src="https://pic1.zhimg.com/80/v2-c013df3638fd41d10103ea259b18e588_720w.jpg" width="300"/><br/>
 
