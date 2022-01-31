@@ -8,9 +8,7 @@ https://github.com/nihui/opencv-mobile
 
 ## model_zoo
 
-yolov5-lite.bin: [https://drive.google.com/file/d/1pR_hFmhmI19Pev_t1i75z7btfJTY3m2f/view?usp=sharing](https://drive.google.com/file/d/1pR_hFmhmI19Pev_t1i75z7btfJTY3m2f/view?usp=sharing)
-
-yolov5-lite-int8.bin: [https://drive.google.com/file/d/1U4Vt6Oqa7ER0CahaMIdHcn0eagv1iOcw/view?usp=sharing](https://drive.google.com/file/d/1U4Vt6Oqa7ER0CahaMIdHcn0eagv1iOcw/view?usp=sharing)
+https://github.com/ppogg/ncnn-android-v5lite/tree/master/app/src/main/assets
 
 
 ## how to build and run
